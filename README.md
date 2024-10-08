@@ -1,4 +1,4 @@
-
+<h2 style="color: red; text-decoration: underline;">Partie 1 : Préparation de l'environnement Git</h2>
 ## Partie 1 : Préparation de l'environnement Git
 ### 4. Comment vérifier la configuration actuelle de Git sur votre machine, notamment le nom d’utilisateur et l’adresse e-mail ?
 
